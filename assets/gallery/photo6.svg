@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="bg6" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#2D1128"/>
+      <stop offset="100%" style="stop-color:#1A0A14"/>
+    </linearGradient>
+    <radialGradient id="glow6" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:0.2"/>
+      <stop offset="100%" style="stop-color:transparent"/>
+    </radialGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg6)"/>
+  <ellipse cx="200" cy="200" rx="130" ry="130" fill="url(#glow6)"/>
+  <text x="200" y="165" font-size="80" text-anchor="middle" dominant-baseline="middle">🌍</text>
+  <text x="200" y="258" font-family="Georgia, serif" font-size="22" fill="#FFD700" text-anchor="middle" font-style="italic">My whole world</text>
+  <text x="200" y="294" font-family="Georgia, serif" font-size="16" fill="#FFB6C1" text-anchor="middle">🌍💕</text>
+  <!-- orbit ring -->
+  <ellipse cx="200" cy="200" rx="160" ry="60" fill="none" stroke="rgba(255,215,0,0.15)" stroke-width="1"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="bg4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2D0B18"/>
+      <stop offset="100%" style="stop-color:#4A0E2A"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg4)"/>
+  <!-- Moon and stars sky -->
+  <circle cx="310" cy="70" r="35" fill="rgba(255,215,0,0.15)" />
+  <circle cx="310" cy="70" r="28" fill="rgba(255,215,0,0.2)" />
+  <text x="200" y="170" font-size="80" text-anchor="middle" dominant-baseline="middle">🌙</text>
+  <text x="200" y="258" font-family="Georgia, serif" font-size="22" fill="#FFD700" text-anchor="middle" font-style="italic">Golden hours with you</text>
+  <text x="200" y="294" font-family="Georgia, serif" font-size="16" fill="#FF85A1" text-anchor="middle">🌅</text>
+  <text x="50" y="60" font-size="12" fill="rgba(255,215,0,0.6)">★</text>
+  <text x="100" y="40" font-size="10" fill="rgba(255,215,0,0.5)">★</text>
+  <text x="160" y="55" font-size="8" fill="rgba(255,215,0,0.4)">★</text>
+  <text x="250" y="35" font-size="14" fill="rgba(255,215,0,0.5)">★</text>
+  <text x="350" y="50" font-size="10" fill="rgba(255,215,0,0.4)">★</text>
+</svg>

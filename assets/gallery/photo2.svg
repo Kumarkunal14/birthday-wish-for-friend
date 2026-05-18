@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4A1942"/>
+      <stop offset="100%" style="stop-color:#2D0B18"/>
+    </linearGradient>
+    <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#FF85A1;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:transparent"/>
+    </radialGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg2)"/>
+  <ellipse cx="200" cy="200" rx="150" ry="150" fill="url(#glow2)"/>
+  <text x="200" y="165" font-size="80" text-anchor="middle" dominant-baseline="middle">🌹</text>
+  <text x="200" y="255" font-family="Georgia, serif" font-size="22" fill="#FFD700" text-anchor="middle" font-style="italic">My favorite smile</text>
+  <text x="200" y="290" font-family="Georgia, serif" font-size="16" fill="#FF85A1" text-anchor="middle">💕</text>
+  <!-- Stars -->
+  <text x="60" y="80" font-size="16" opacity="0.5">✨</text>
+  <text x="320" y="100" font-size="12" opacity="0.4">✨</text>
+  <text x="80" y="320" font-size="12" opacity="0.4">✨</text>
+  <text x="330" y="330" font-size="16" opacity="0.5">✨</text>
+</svg>
