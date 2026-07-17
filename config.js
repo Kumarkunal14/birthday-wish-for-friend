@@ -8,16 +8,16 @@
 const CONFIG = {
 
   // ─── Names ─────────────────────────────────────────────────────────────────
-  senderName:  "Your Name",      // Your name — shown in the poem signature & letter closing
-  partnerName: "Her Name",       // Her full name — typed on the landing screen
-  nickname:    "Sweetheart",     // Nickname — used in headings across the site
+  senderName:  "Kumar kunal",      // Your name — shown in the poem signature & letter closing
+  partnerName: "Devanshi",       // Her full name — typed on the landing screen
+  nickname:    "Devanshi",     // Nickname — used in headings across the site
 
   // ─── Song ──────────────────────────────────────────────────────────────────
-  // Get the YouTube video ID from the URL: youtube.com/watch?v=PASTE_ID_HERE
+  // Get the YouTube video ID from the URL: youtube.com/watch?v=https://youtu.be/ZYQuFDlSg6E?si=fP9Ujq4SZK4Je6eg
   song: {
     title:      "Song Title",
     artist:     "Artist Name",
-    youtubeId:  "WikAeXGsmHY",             // default: Love Story – Indila
+    youtubeId:  "ZYQuFDlSg6E",             // default: Love Story – Indila
     lyricQuote: '"A lyric or quote that captures why this is your song. 💕"',
   },
 
@@ -26,12 +26,12 @@ const CONFIG = {
   // Photos: any web-safe image (.jpg .jpeg .png .gif .webp)
   // Videos: .mp4 or .webm  (comment out the video section if you have none)
   photos: [
-    { url: "assets/gallery/photo1.svg", caption: "Every moment with you 🌸" },
-    { url: "assets/gallery/photo2.svg", caption: "My favourite smile 💕" },
-    { url: "assets/gallery/photo3.svg", caption: "You make life beautiful ✨" },
-    { url: "assets/gallery/photo4.svg", caption: "Golden hours with you 🌅" },
-    { url: "assets/gallery/photo5.svg", caption: "Together is my favourite place 💖" },
-    { url: "assets/gallery/photo6.svg", caption: "My whole world 🌍" },
+    { url: "assets/gallery/devanshi 1.jpeg", caption: "Every moment with you 🌸" },
+    { url: "assets/gallery/devanshi 2.jpeg", caption: "My favourite smile 💕" },
+    { url: "assets/gallery/devanshi 3.jpeg", caption: "You make life beautiful ✨" },
+    { url: "assets/gallery/devanshi 4.jpeg", caption: "Golden hours with you 🌅" },
+    { url: "assets/gallery/devanshi 5.jpeg", caption: " Favourite  💖" },
+    { url: "assets/gallery/devanshi 6.jpeg", caption: "Charming Girl 🌍" },
   ],
   videos: [
     // { url: "assets/gallery/video1.mp4", caption: "A moment I never want to forget 🎥" },
@@ -41,8 +41,8 @@ const CONFIG = {
   // Each stanza is a string. Use <br> for line breaks inside a stanza.
   // Add or remove stanza strings freely.
   poem: {
-    title:     "You Are My World",
-    signature: "— Forever yours 💍",
+    title:     "You Are charming girl💖",
+    signature: "— Forever friends 💍",
     stanzas: [
       `In all the moments I have known,<br>
        no star shines brighter than your smile.<br>
@@ -59,7 +59,7 @@ const CONFIG = {
        that you are loved beyond all words —<br>
        more than I could ever show.`,
 
-      `Happy Birthday, my love —<br>
+      `Happy Birthday, my Friend —<br>
        may every dream you hold come true,<br>
        and may every year that follows this<br>
        feel as beautiful as you.`,
@@ -72,10 +72,10 @@ const CONFIG = {
     completionText:    "You passed! 🎉",
     completionSubtext: "Already knew all the answers 💕",
     questions: [
-      { text: "Do you feel deeply loved today? 💕",      message: "You are — more than words can say! 💖" },
+      { text: "Do you feel deeply joyful today? 💕",      message: "You are — more than words can say! 💖" },
       { text: "Is today going to be amazing? 🎂",        message: "It absolutely is! 🎉" },
       { text: "Are you the most special person? ✨",      message: "Without a single doubt! ✨" },
-      { text: "Are you loved more than you know? 💖",    message: "Infinitely more! 💕" },
+      { text: "Are you loved this type of wish? 💖",    message: "Infinitely more! 💕" },
       { text: "Is this the best birthday wish ever? 🥺", message: "Made just for you! 🎁" },
     ],
   },
@@ -87,13 +87,13 @@ const CONFIG = {
   letter: {
     title: "A Letter Just For You 🌸",
     paragraphs: [
-      { cls: "letter-date",    text: "Written with all my love, on your special day 🌸" },
-      { cls: "",               text: "My dearest Sweetheart," },
+      { cls: "letter-date",    text: "Written with all my efforts, on your special day 🌸" },
+      { cls: "",               text: "My dearest Devanshi," },
       { cls: "",               text: "Today is your birthday, and I want the whole world to know how much you mean to me." },
       { cls: "",               text: "You bring colour to every ordinary day. You make me laugh when nothing else can. You are the reason small moments feel worth remembering." },
       { cls: "",               text: "Thank you for being exactly who you are — never change." },
       { cls: "",               text: "May today be as beautiful as every day you have made for me. May every dream you carry quietly in your heart find its way to you." },
-      { cls: "letter-closing", text: "Happy Birthday, my love. You are my whole world. 💕" },
+      { cls: "letter-closing", text: "Happy Birthday, my friend. You are a charming girl. 💕" },
     ],
   },
 
