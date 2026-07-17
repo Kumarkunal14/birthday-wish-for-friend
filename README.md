@@ -1,14 +1,14 @@
 # Birthday Wish Website 🎂💕
 
-I built this website to wish my girlfriend Hasini on her birthday. A fully animated, multi-page love letter in the browser. It went down so well that I decided to clean it up and share it, so anyone can fork it and make their own in minutes.
+I built this website to wish my friend on her birthday. A fully animated, multi-page love letter in the browser. It went down so well that I decided to clean it up and share it, so anyone can fork it and make their own in minutes.
 
 ---
 
 ## Live Demo
 
-See it in action here: **https://dinukamadhushan1234.github.io/Birthday-Wish-For-Your-Girlfriend/**
+See it in action here: https://kumarkunal14.github.io/Birthday-Wish-For-Your-Friend/
 
-When you fork and customise, your link will be: `https://YOUR_USERNAME.github.io/Birthday-Wish-For-Your-Girlfriend/`
+When you fork and customise, your link will be: `https://YOUR_USERNAME.github.io/Birthday-Wish-For-Your-friend/`
 
 ---
 
@@ -79,7 +79,7 @@ Supported formats: `.jpg` `.jpeg` `.png` `.gif` `.webp` (photos) · `.mp4` `.web
 
 4. Your site will be live at:
    ```
-   https://YOUR_USERNAME.github.io/Birthday-Wish-For-Your-Girlfriend/
+   https://YOUR_USERNAME.github.io/Birthday-Wish-For-Your-friend/
    ```
    (GitHub takes about 1–2 minutes to build it the first time)
 
